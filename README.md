@@ -25,7 +25,7 @@ Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para 
 # Tecnologias: 
 - NodeJs <img width="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/nodedotjs.svg">
 - Express <img width="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/express.svg">
-- Puppeteer
+- Puppeteer <img width="15px" background-color="white" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/puppeteer.svg">
 
 # Como usar
 Envie por um requisição get, atraves do body, o cep sem caracteres especiais{ "cep" : "00000000" }. Retorna um json com o logradouro, bairo e cidade/estado. 
