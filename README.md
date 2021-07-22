@@ -3,6 +3,7 @@
   <a href="#">
     <img src="https://s2.glbimg.com/CQesxIP5ed0q8e8qNU8-vqNapY0=/0x0:921x885/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/B/b/wzBEg4TFGwb5ZErlj3Qg/correios.jpg" alt="Logo" height="150">
   </a>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Liedsonrm/devchallenge-webscraping-correios?style=for-the-badge">
 
   <h3 align="center">Web Scraping - Correios</h3>
 
@@ -26,7 +27,7 @@ Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para 
 - NodeJs <img width="25px" src="https://camo.githubusercontent.com/285cbea8f71982c0a7be8f4fd7859e7841b3473ca93d7aff314503569c960396/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34302f3463616635302f6e6f64652d6a732e706e67">
 - Express 
 - Puppeteer 
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Liedsonrm/devchallenge-webscraping-correios?style=for-the-badge">
+
 # Como usar
 Envie por um requisição get, atraves do body, o cep sem caracteres especiais{ "cep" : "00000000" }. Retorna um json com o logradouro, bairo e cidade/estado. 
 
