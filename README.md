@@ -19,9 +19,6 @@
   </p>
 </p>
 
-# DevChallenge :)
-[DevChallenge](https://devchallenge.now.sh/) permite que você evolua suas skills como programador! Participe da nossa comunidade o/
-
 # Desafio
 Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
