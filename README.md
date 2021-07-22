@@ -7,6 +7,7 @@
   <h3 align="center">Web Scraping - Correios</h3>
   
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Liedsonrm/devchallenge-webscraping-correios?style=for-the-badge">
+  <img alt="Snyk Vulnerabilities for GitHub Repo" src="https://img.shields.io/snyk/vulnerabilities/github/Liedsonrm/devchallenge-webscraping-correios?style=for-the-badge">
 
   <p align="center">
     Consulte um cep e encontre o endereço
