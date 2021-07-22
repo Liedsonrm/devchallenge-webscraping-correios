@@ -32,7 +32,7 @@ Envie por um requisição get, atraves do body, o cep sem caracteres especiais{ 
 
 ## Como instalar
 - Clone o repositorio
-- rode "npm init" para baixar as dependencias
+- rode "npm init" para baixar as dependências
 - rode "node index.js" para ligar o servidor
 
 
