@@ -35,6 +35,6 @@ Envie por um requisição get, atraves do body, o cep sem caracteres especiais{ 
 - rode "npm init" para baixar as dependências
 - rode "node index.js" para ligar o servidor
 
-Codigo criado por [liedsonrm](https://github.com/Liedsonrm/) <br>
+Codigo criado por [liedsonrm](https://github.com/Liedsonrm/):wink: <br>
 Desafio criado por [filiafobico](https://github.com/filiafobico/) :)
 
