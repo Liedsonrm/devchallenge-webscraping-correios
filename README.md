@@ -23,8 +23,8 @@
 Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
 # Tecnologias: 
-- NodeJs <img height="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/express.svg">
-- Express
+- NodeJs <img width="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/nodedotjs.svg">
+- Express <img width="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/express.svg">
 - Puppeteer
 
 # Como usar
