@@ -23,7 +23,7 @@
 Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
 # Tecnologias: 
-- NodeJs #339933
+- NodeJs https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/express.svg
 - Express
 - Puppeteer
 
@@ -42,7 +42,7 @@ Desafio criado por [filiafobico](https://github.com/filiafobico/) :)
 ---
 
 <a href="https://avatars.githubusercontent.com/u/54691357?s=400&u=da7910d5eb08c70b38042d57100f04669e04cfb7&v=4">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54691357?s=400&u=da7910d5eb08c70b38042d57100f04669e04cfb7&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Liedson Ribeiro</b></sub></a>
 
