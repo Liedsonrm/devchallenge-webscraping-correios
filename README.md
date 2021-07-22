@@ -23,9 +23,9 @@
 Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para consultar um cep no site dos correios
 
 # Tecnologias: 
-- NodeJs <img width="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/nodedotjs.svg">
-- Express <img width="15px" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/express.svg">
-- Puppeteer <svg><img width="15px" style="fill: white;" src="https://github.com/Liedsonrm/devchallenge-webscraping-correios/blob/master/puppeteer.svg"><svg>
+- NodeJs <img width="15px" src="https://camo.githubusercontent.com/285cbea8f71982c0a7be8f4fd7859e7841b3473ca93d7aff314503569c960396/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34302f3463616635302f6e6f64652d6a732e706e67">
+- Express 
+- Puppeteer 
 
 # Como usar
 Envie por um requisição get, atraves do body, o cep sem caracteres especiais{ "cep" : "00000000" }. Retorna um json com o logradouro, bairo e cidade/estado. 
