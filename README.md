@@ -30,7 +30,7 @@ Criar um [web scraping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web) para 
 # Como usar
 Envie por um requisição get, atraves do body, o cep sem caracteres especiais{ "cep" : "00000000" }. Retorna um json com o logradouro, bairo e cidade/estado. 
 
-#Como instalar
+## Como instalar
 - Clone o repositorio
 - rode "npm init" para baixar as dependencias
 - rode "node index.js" para ligar o servidor
