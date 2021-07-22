@@ -1,0 +1,23 @@
+{
+  "name": "get-cep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liedsonrm/devchallenge-webscraping-correios.git"
+  },
+  "author": "Liedsonrm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liedsonrm/devchallenge-webscraping-correios/issues"
+  },
+  "homepage": "https://github.com/Liedsonrm/devchallenge-webscraping-correios#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.1.0"
+  }
+}
